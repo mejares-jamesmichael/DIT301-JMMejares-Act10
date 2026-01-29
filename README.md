@@ -23,8 +23,12 @@ This application is a simple, single-screen To-Do list manager designed to demon
 
 ## Screenshots
 
-| Add Task | Task List | Delete Task |
+| Main UI | Add Task | Task List |
 |:---:|:---:|:---:|
-| ![Add Task](screenshots/add_task.png) | ![Task List](screenshots/task_list.png) | ![Delete Task](screenshots/delete_task.png) |
+| ![Main UI](screenshots/main-ui.png) | ![Add Task](screenshots/add-task.png) | ![Task List](screenshots/task-list.png) |
+
+| Delete Task | Task Deleted |
+|:---:|:---:|
+| ![Delete Task](screenshots/delete-task.png) | ![Task Deleted](screenshots/deleted-task.png) |
 
 *Note: Screenshots are located in the `screenshots/` directory.*
